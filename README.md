@@ -4,4 +4,4 @@ If you want to run this game, you need to download [emu8086](https://emu8086-mic
 
 Move with the 4 and 6 keys, try to erase all the blocks from the screen.
 
-!(https://i.imgur.com/YPge1Ay.png)
+![Midgame](https://i.imgur.com/YPge1Ay.png)
